@@ -74,7 +74,7 @@
 	--scrollbar-color: rgba(55, 55, 55, 0.5);                      /* Scrollbar Slider Hover Color                                           */
 	--scrollbar-hover-color: rgba(75, 75, 75, 1);                  /* Scrollbar Width                                                        */
 	--scrollbar-width: 8px;                                        /* Server Rings - Unread Color                                            */
-	--server-unread-colour: 0, 0,0;                          /* Server Rings - Hover Color                                             */
+	--server-unread-colour: 100, 100,100,;                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 186, 186, 186;                          /* Server Rings - Selected Color                                          */
   --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
   --server-spacing: 16px;                                        /* Server Rings - Glow Intensity                                          */
