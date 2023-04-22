@@ -74,11 +74,11 @@
 	--scrollbar-color: rgba(55, 55, 55, 0.5);                      /* Scrollbar Slider Hover Color                                           */
 	--scrollbar-hover-color: rgba(75, 75, 75, 1);                  /* Scrollbar Width                                                        */
 	--scrollbar-width: 8px;                                        /* Server Rings - Unread Color                                            */
-	--server-unread-colour: 194, 178, 60;                          /* Server Rings - Hover Color                                             */
+	--server-unread-colour: 0, 0,0;                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 186, 186, 186;                          /* Server Rings - Selected Color                                          */
   --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
   --server-spacing: 16px;                                        /* Server Rings - Glow Intensity                                          */
-  --server-glow-intensity: 1;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
+  --server-glow-intensity: 0;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
 	--discord-opacity: 1.0;                                        /* Images are Stored here to improve Loading times, more info in css file */	
 	/*
 		Images are Stored here to improve Loading times, to get the Image Code:
